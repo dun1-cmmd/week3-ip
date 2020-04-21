@@ -32,7 +32,7 @@ This is a companies portfolio web that does the following:
 
   - Open terminal{Ctrl+Alt+T}
   - git clone https://github.com/dun1-cmmd/week3-ip
-  - cd ipweek3
+  - cd weeek3-ip
   - code .
 
 ### Technologies Used
