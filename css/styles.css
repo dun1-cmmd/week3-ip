@@ -1,0 +1,106 @@
+
+ body{
+    background-color: white;
+     font-family: Arial, Helvetica, sans-serif;
+     
+
+ }
+
+ .portImg {
+   width: 230px;
+   height: 170px;
+   cursor: pointer;
+}
+
+ .what{
+ color: black;
+ font-size: 20px;
+ font-weight: bold;
+ margin: 80px 20px 20px 10px;
+ background-color: #f1f1f1;
+ padding: 20px;
+text-align: center;
+ }
+
+ #form{
+   background-image: url(../images/contact.jpg);
+   background-size: cover;
+   color:none;
+ }
+
+ .port{
+   position: absolute;
+   top: 50%;
+   bottom: 0;
+   left: 0;
+   right: 0;
+   background-color: white;
+   color:black;
+   visibility: hidden;
+   opacity: 0;
+   text-align: center;
+ }
+
+
+ .display{
+   position: relative;
+   height: 100%;
+   width: 100%;
+}
+.display:hover.port{
+
+visibility: visible;
+    opacity: 1;}
+
+    textarea {
+      background-color: inherit;
+  }
+
+
+form{
+   background-image: url(../images/contact.jpg);
+}
+
+
+textarea {
+   background-color:inherit;
+}
+
+.WEDO{
+   padding-bottom: 40px;
+}
+
+.icon{
+   cursor: pointer;
+}
+
+.jumbotron {
+    background-image: url(//images/welcome.jpg);
+}
+ 
+#jumbotron-2 {
+   background-image: url(../images/services.jpg);
+   background-size: cover;
+   color: white;
+   padding-top: 90px;
+   padding-bottom: 90px;
+}
+
+#jumbotron {
+   background-image: url(../images/welcome.jpg);
+   color:white;
+   background-size: cover;
+}
+textarea {
+   background-color:inherit;
+}
+::placeholder {
+   color:white;
+}
+   .button{
+   color:black;
+   background-color: inherit;
+}
+.social {
+   cursor: pointer;
+}
